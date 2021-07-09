@@ -1,0 +1,18 @@
+/* .container {
+  max-width: 1170px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+
+  background-color: #ccc;
+} */
+.container {
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding: 40px;
+  background-color: var(--bgColor);
+  box-shadow: var(--boxShadow);
+}

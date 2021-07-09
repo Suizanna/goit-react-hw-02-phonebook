@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Suizanna/goit-react-hw-02-phonebook/static/css/main.0d72b5aa.chunk.css",
+    "main.js": "/Suizanna/goit-react-hw-02-phonebook/static/js/main.69517c3e.chunk.js",
+    "main.js.map": "/Suizanna/goit-react-hw-02-phonebook/static/js/main.69517c3e.chunk.js.map",
+    "runtime-main.js": "/Suizanna/goit-react-hw-02-phonebook/static/js/runtime-main.67ca2786.js",
+    "runtime-main.js.map": "/Suizanna/goit-react-hw-02-phonebook/static/js/runtime-main.67ca2786.js.map",
+    "static/css/2.bc922b9c.chunk.css": "/Suizanna/goit-react-hw-02-phonebook/static/css/2.bc922b9c.chunk.css",
+    "static/js/2.5973d77c.chunk.js": "/Suizanna/goit-react-hw-02-phonebook/static/js/2.5973d77c.chunk.js",
+    "static/js/2.5973d77c.chunk.js.map": "/Suizanna/goit-react-hw-02-phonebook/static/js/2.5973d77c.chunk.js.map",
+    "index.html": "/Suizanna/goit-react-hw-02-phonebook/index.html",
+    "static/css/2.bc922b9c.chunk.css.map": "/Suizanna/goit-react-hw-02-phonebook/static/css/2.bc922b9c.chunk.css.map",
+    "static/css/main.0d72b5aa.chunk.css.map": "/Suizanna/goit-react-hw-02-phonebook/static/css/main.0d72b5aa.chunk.css.map",
+    "static/js/2.5973d77c.chunk.js.LICENSE.txt": "/Suizanna/goit-react-hw-02-phonebook/static/js/2.5973d77c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67ca2786.js",
+    "static/css/2.bc922b9c.chunk.css",
+    "static/js/2.5973d77c.chunk.js",
+    "static/css/main.0d72b5aa.chunk.css",
+    "static/js/main.69517c3e.chunk.js"
+  ]
+}
