@@ -1,7 +1,7 @@
 const PhoneBookForm = ({ onSetUserInfo, onAddContact, name, number }) => {
   return (
     <form onSubmit={onAddContact} action="">
-      <label htmlFor="">{/* htmlFor помогает читалкам и другим вспомогательным инструментам. */}
+      <label htmlFor="">
         <p>Name</p>
         <input
           onInput={onSetUserInfo}
